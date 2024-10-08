@@ -49,8 +49,7 @@ const slidesIndex = [
   {
     image: gitgit,
     title: "The Beauty of Nature",
-    description: "Bali's cool, calm, green nature tourism will make you feel like you are in heaven",
-  },
+    description: "Bali's cool, calm, green nature tourism will make you feel like you are in heaven",  },
 ];
 
 const reviewsIndex = [
