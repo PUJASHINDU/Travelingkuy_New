@@ -7,7 +7,7 @@ import UlasanComponents from '../components/UlasanComponents';
 import FooterComponents from '../components/FooterComponents';
 
 // img import
-import VillaIcon from "../assets/icon/Villa.png";
+import VillaIcon from "../assets/icon/Villaa.png";
 import BeachIcon from "../assets/icon/beach.png";
 import CultureIcon from "../assets/icon/culture.png";
 import NatureIcon from "../assets/icon/nature.png";
@@ -23,7 +23,7 @@ import leio from '../assets/user/leio.jpg'
 
 // Definisikan item navigasi untuk MenuComponents
 const navListItems = [
-  { label: "Villa", icon: VillaIcon, href: "/Villa" },
+  { label: "Villa", icon: VillaIcon, href: "/Villaa" },
   { label: "Beach", icon: BeachIcon, href: "/beach" },
   { label: "Culture", icon: CultureIcon, href: "/culture" },
   { label: "Nature", icon: NatureIcon, href: "/nature" },
